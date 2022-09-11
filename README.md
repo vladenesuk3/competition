@@ -14,3 +14,4 @@
 
 Оскільки файл моделі важив 1.5 gb мы не змогли завантажити його на GitHub, тому нижче залишаємо посилання на Google Drive, в якому буде збережена модель. 
 
+https://drive.google.com/drive/folders/1Hrpq6RnaLJpbiEij0F2QiQs3vKKqXU_g
